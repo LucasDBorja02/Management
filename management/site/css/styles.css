@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1, h5 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link {
+    font-size: 1.1rem;
+}
+
+.nav-link:hover {
+    background-color: #0d6efd;
+}
+
+.card {
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    font-size: 0.9rem;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
